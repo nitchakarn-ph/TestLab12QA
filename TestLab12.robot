@@ -17,4 +17,6 @@ ${DELAY}    0.1
 	OPEN BROWSER    ${TRIANGLE URL}    ${BROWSER}
 	Input Text    q    www.cs.kku.ac.th
 	Click Button    btnK
+	Page Should Contain    CS KKU 
 	Close Browser
+	
