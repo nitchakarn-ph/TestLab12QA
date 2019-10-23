@@ -1,0 +1,6 @@
+*** Setting ***
+Library    SeleniumLibrary
+
+*** Variables ***
+${SEVERR}    localhost:7272
+${BROWSER}    Chrome
